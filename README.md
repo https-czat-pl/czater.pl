@@ -1,1 +1,2 @@
 # czater.pl
+ istanie strona
